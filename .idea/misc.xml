@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/dhruv/AndroidStudioProjects/MedicalTourismHackathon/app/src/main/res/drawable/back.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/dhruv/AndroidStudioProjects/MedicalTourismHackathon/app/src/main/res/drawable/call_button.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/dhruv/AndroidStudioProjects/MedicalTourismHackathon/app/src/main/res/drawable/ic_homebg.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/dhruv/AndroidStudioProjects/MedicalTourismHackathon/app/src/main/res/drawable/ic_prevention1.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/dhruv/AndroidStudioProjects/MedicalTourismHackathon/app/src/main/res/drawable/ic_prevention2.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/dhruv/AndroidStudioProjects/MedicalTourismHackathon/app/src/main/res/drawable/send_sms_button.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/dhruv/AndroidStudioProjects/MedicalTourismHackathon/app/src/main/res/drawable/spinner_bg.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/dhruv/AndroidStudioProjects/MedicalTourismHackathon/app/src/main/res/layout/activity_main.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
