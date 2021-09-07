@@ -11,11 +11,15 @@ import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.Spinner;
+import android.widget.TextView;
+
+import org.w3c.dom.Text;
 
 public class MainActivity2 extends AppCompatActivity {
     ImageView flags;
     Spinner spinner;
     Button stat;
+    TextView textView5;
 
 
 
@@ -37,6 +41,16 @@ public class MainActivity2 extends AppCompatActivity {
 
 
                 Intent i = new Intent(MainActivity2.this, Statstics.class);
+                startActivity(i);
+
+            }
+        });
+        textView5.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+
+
+                Intent i = new Intent(MainActivity2.this, Doctor.class);
                 startActivity(i);
 
             }
